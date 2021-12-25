@@ -45,4 +45,4 @@ Client.on("messageCreate", message => {
 
 });
 
-Client.login(process.env.TOKEN);
+Client.login("OTI0MTQwMzQ3NDI3MjcwNjk2.YcaOxA.HY9peyiXxyo2a-I4E3jDU5Y0bKQ");
